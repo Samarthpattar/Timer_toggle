@@ -1,0 +1,43 @@
+{
+    "company":"LCG",
+    "course ": "react",
+    "students":["vik","samarth"],
+    "studObj":{
+        "name":"",
+        "faculty":""
+    },
+     "students":[
+        {
+            "question":"sam",
+            "option":[
+                "a",
+                "b"
+                
+            ]        },
+        {
+            "name":"sam",
+            "age":"22"
+        },
+        {
+            "name":"sam1",
+            "age":"22"
+        },
+        {
+            "name":"sam2",
+            "age":"22"
+        },
+        {
+            "name":"sam3",
+            "age":"22"
+        },
+        {
+            "name":"sam4",
+            "age":"22"
+        },
+        {
+            "name":"sam5",
+            "age":"22"
+        }
+
+    ]
+}
